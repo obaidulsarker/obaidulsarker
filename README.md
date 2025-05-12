@@ -7,6 +7,7 @@
 - 15+ years of expertise in Database Administration, Software Development and DevOps.
 - Proficient with RDBMS (MySQL, PostgreSQL, MSSQL, Oracle) and NoSQL (MongoDB, Elasticsearch, Redis) databases.
 - Designed and developed data warehouse solutions in Google BigQuery, AWS Redshift, and Snowflake.
+- Designed and developed data lakehouse using Databrick. 
 - Worked extensively with AWS (RDS, S3, EMR, Athena, Glue, EC2) and Google Cloud (Cloud SQL, Cloud Storage, Dataproc, Composer, Cloud Functions, Cloud Run, Compute Engine).
 - Experienced in handling various file formats, including PARQUET, JSON, XML, AVRO, and text files.
 - Skilled in data architecture, including data ingestion and pipeline design.
