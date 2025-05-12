@@ -4,7 +4,7 @@
 
 ### **Skills and Experience:**
 - 4+ years of hands-on experience with Big Data technologies, including Hadoop (HDFS, Hive, Spark, Sqoop), AWS EMR, Databricks, and Google Cloud Dataproc.
-- 15+ years of expertise in ETL, Database Administration, Software Development and DevOps.
+- 15+ years of expertise in Database Administration, Software Development and DevOps.
 - Proficient with RDBMS (MySQL, PostgreSQL, MSSQL, Oracle) and NoSQL (MongoDB, Elasticsearch, Redis) databases.
 - Designed and developed data warehouse solutions in Google BigQuery, AWS Redshift, and Snowflake.
 - Worked extensively with AWS (RDS, S3, EMR, Athena, Glue, EC2) and Google Cloud (Cloud SQL, Cloud Storage, Dataproc, Composer, Cloud Functions, Cloud Run, Compute Engine).
